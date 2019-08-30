@@ -1,0 +1,8 @@
+Package: powershell-ise-linux
+Version: 0.0.1a
+Architecture: all
+Maintainer: scoutchorton
+Installed-Size: 18500
+Depends: python (>= 2.7.14), dpkg
+Homepage: https://scoutchorton.io
+Description: Unofficial Linux adaptation of the Microsoft Powershell ISE using Glade/Gtk3+, Python, and Powershell.
