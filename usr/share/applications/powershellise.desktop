@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Powershell ISE
-Comment=A hackable text editor for the 21st Century.
-GenericName=Powershell ISE
-Exec=python /usr/bin/powershell-ise-linux/main.py -w
-Icon=atom
-Type=Application
-Categories=GNOME;GTK;TextEditor;Development;
